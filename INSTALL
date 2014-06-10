@@ -1,0 +1,9 @@
+Building Plankton
+
+See doc/readme-qt.rst for instructions on building Plankton QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Plankton.
+
+See doc/build-*.txt for instructions on building Planktond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Plankton.
